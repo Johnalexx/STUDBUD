@@ -39,8 +39,10 @@
             <input type="password" class="form-control" id="inputPassword4" placeholder="Password">
             </div>
         </div>
-        <div class="form-group">
-            <label for="inputAddress2">Address 2</label>
+        <div class="form-row">
+            <label for="inputAddress2">Course of Study</label>
+            <input type="text" class="form-control" id="courseStuudy" placeholder="Course of Study">
+            <label for="inputAddress2" class="col-md-3">Address 2</label>
             <input type="text" class="form-control" id="inputAddress2" placeholder="Apartment, studio, or floor">
         </div>
         <div class="form-row">
